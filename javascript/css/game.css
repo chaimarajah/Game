@@ -1,0 +1,44 @@
+@import "msg.css";
+@import "players.css";
+@import "grid.css";
+
+* {
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+body {
+    background-color:whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+main {
+    width: 70%;
+    margin: auto;
+
+}
+
+footer {
+    font-size: .75rem;
+    text-align: center;
+}
+
+.welcome{ color: rgb(98, 0, 98);
+    text-align: center;
+    margin-top: 2.5rem;
+    margin-bottom: 3rem;
+}
+
+.playersname{
+    text-align: center;
+    color: rgb(214, 26, 139);
+    font-size: medium;
+    font-family: sans-serif;
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+
+}

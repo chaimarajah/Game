@@ -1,0 +1,10 @@
+#msg {
+    background-color:rgb(255, 195, 149);
+    color:rgb(171, 6, 89);
+    padding: 1rem;
+    font-size: 1.2rem;
+    display: none; /*TO HIDE*/
+    margin-top: 2rem;
+    font-weight: bold;
+
+}

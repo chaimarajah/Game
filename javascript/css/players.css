@@ -1,0 +1,32 @@
+#players {
+    margin-top: 1rem;
+    display: flex;
+    justify-content:space-around ;
+}
+
+.player {
+    text-align: center;
+    display: flex;
+    width: 30%;
+    padding: 20px;
+
+    /*margin: 50px 20px; /*top buttom*/
+    /*margin: 50px 20px 10px; /*top right buttom*/
+    /* margin: 50px 20px 10px 54px;
+    /* starting from top to left */
+
+}
+
+.player .name {
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color:rgb(98, 0, 98);;
+}
+.player .score {
+    font-size: 2rem;
+    margin-left: 70px;
+    color:rgb(214, 26, 139);
+    font-weight: bold;
+   
+}
